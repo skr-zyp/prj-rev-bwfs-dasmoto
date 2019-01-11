@@ -1,0 +1,33 @@
+html {
+  font-family: Helvetica;
+}
+h1 {
+  color: khaki;
+  font-size: 100px;
+  font-weight: bold;
+  text-align: center;
+  background-image: url('img/pattern.jpeg');
+}
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+#brushes {
+  background-color: mediumspringgreen;
+}
+#frames {
+  background-color: lightcoral;
+}
+#paint {
+  background-color: skyblue;
+}
+strong {
+  color:blue;
+  font-weight: bold;
+}
+.bold_and_bluetiful {
+  color:blue;
+  font-weight: bold;
+}
